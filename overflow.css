@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.box{
+    
+    margin:auto;
+    width: 300px;
+    height: 400px;
+    border: 1px solid black;
+    overflow: auto;
+   
+}
+
